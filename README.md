@@ -1,12 +1,15 @@
-# React + Vite
+# CRUD Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Very basic first app in React.JS
+Served on [https://maxmm-reactjs-todos.netlify.app/](https://maxmm-reactjs-todos.netlify.app/)
 
-Currently, two official plugins are available:
+## TODO for Todo List
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Persist edits in-progress
+- Re-vamp page style to fit my preferences
+- Retain order on edits
+- Different color palletes (dark/light mode, at least)
 
-## Expanding the ESLint configuration
+## Acknowledgements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I followed a tutorial to make the fundamentals of this for my first React project. Credit to the tutorial I followed: [https://www.youtube.com/watch?v=82PXenL4MGg](https://www.youtube.com/watch?v=82PXenL4MGg)
